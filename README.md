@@ -15,4 +15,16 @@ The development of BriCool was a rewarding experience that allowed our team to e
 - **Collaboration and Teamwork:** Strengthened communication, coordination, and teamwork in a complex project environment.
 
 ##  Service provider experience
+https://github.com/user-attachments/assets/3056a788-a792-4e71-b54a-24fcfcefee25
+
+## User experience
+https://github.com/user-attachments/assets/330758ce-b878-458d-9f0c-23c3c5267966
+
+## Contributors
+#### AIT EL CADI Shadia
+#### EL MIDAOUI Imane
+#### SAHEL Bouchra
+#### EL AMRANI ENNAJAR Tasnime
+#### ABOUJENANE Mariam
+#### M'HIFED Zineb
 
