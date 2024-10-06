@@ -1,4 +1,4 @@
-# BriCOOL
+# BriCOOL 👩‍🔧👷
 
 <img width="700" alt="a"  src="https://github.com/user-attachments/assets/810e0ac5-e453-4dc0-9607-6911bb52f5d2">
 
